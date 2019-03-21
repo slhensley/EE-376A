@@ -1,5 +1,6 @@
 # EE-376A
 Rumor Spreading with Consistent Actors
+Author: Sarah Hensley
 
 Abstract: 
 We investigate a model for rumor-spreading in a social network with actors that consistently output the same rumor. Modifying a previously developed model, we introduce liars and truth-tellers as “consistent actors”. Even when a small portion of the network is composed of “consistent actors”, they have a noticeable effect on dominant opinions. However, these consistent actors have little effect on the entropy within the memory of other nodes. From this, we conclude that the presence of consistent actors allows rumors to still spread while subtly forcing the dominant opinion to conform to their choice of rumor.
